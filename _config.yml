@@ -13,3 +13,6 @@ facebook: ClasesAtenea
 twitter: cla_aprendizaje
  #linkedin: #username
 github: jerck1
+# Site navigation links
+- title: Home
+  url: /
