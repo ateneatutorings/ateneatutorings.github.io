@@ -1,6 +1,7 @@
 ## Ofrecemos clases personalizadas
 
-En las áreas de:
+En las áreas de:\
+
 **MATEMÁTICAS**\
 **FÍSICA**\
 **ESTADÍSTICA**\
